@@ -1,138 +1,75 @@
 <div align="center">
 
 # Hi, I'm Arjun 👋
-
-### Building AI tools that help people think, learn, and explore.
+### Building tools that amplify curiosity, learning, and discovery.
 
 *"Curiosity is enough."*
 
-<br>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=transparent" />
+### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=transparent"/>
+| Profile Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=dark" width="400px" alt="Arjun's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=dark" width="350px" alt="Top Languages" /> |
 
 </div>
 
 ---
 
-## What I'm Building
+## 🛠️ Featured Projects
 
-I enjoy building software that solves real problems—not just showcasing technologies.
-
-Current interests include:
-
-- 🔍 AI-powered Semantic Search
-- 🧠 Knowledge Interfaces
-- 🤖 Computer Vision
-- 📚 Human Learning
-- 🌐 Local-first AI
-- ⚡ Interactive Systems
-
----
-
-## Featured Projects
-
-### 🔍 WhereIsThatImage?
-A local-first semantic image search engine powered by OpenCLIP.
-
-Search images by what they contain instead of remembering filenames.
-
-**Tech:** React • FastAPI • OpenCLIP • ChromaDB • PyTorch
-
----
+### 🔍 [WhereIsThatImage?](https://github.com/ArjunSNair00/WhereIsThatImage)
+> **A local-first semantic image search engine.**
+*   **The Problem:** Finding images by remembering exact filenames is broken.
+*   **The Solution:** Search your local media using natural language descriptions, powered by on-device vector embeddings.
+*   **Tech Stack:** React • FastAPI • OpenCLIP • ChromaDB • PyTorch
 
 ### 🧠 Logix
-An experimental project exploring how AI can transform passive information into interactive knowledge experiences.
-
-Instead of simply reading PDFs or watching videos, imagine exploring knowledge.
-
----
+> **Interactive knowledge retrieval ecosystems.**
+*   An experimental engine designed to transform passive media (PDFs, videos) into active, exploration-driven knowledge graphs. Moving past simple text generation toward actual deep discovery.
 
 ### 🎓 Learnel
-Creating more engaging ways to learn using interactive interfaces and AI.
+> **AI-driven pedagogical interfaces.**
+*   Rethinking the future of education by pairing local AI models with highly interactive, tactile user interfaces to maximize human retention.
 
 ---
 
-## Philosophy
+## ⚡ Tech Stack & Tools
 
-I don't believe AI should replace curiosity.
-
-I believe it should amplify it.
-
-I'm interested in building software that helps people understand, discover, and explore rather than simply generating answers.
-
----
-
-## Currently Learning
-
-- Multimodal AI
-- Vector Databases
-- Computer Vision
-- Knowledge Retrieval
-- FastAPI
-- React
-- Embedded Systems
+*   **Languages:** Python • TypeScript • JavaScript • C++ • C
+*   **AI / ML:** PyTorch • OpenCLIP • ChromaDB • RAG Pipeline Engineering
+*   **Web Stack:** React • Vite • Tailwind CSS • FastAPI • Flask • SQLite
+*   **Environment:** Linux • Git • VS Code
 
 ---
 
-## Tech Stack
+## 🎯 Core Focus & Philosophy
 
-### Languages
+I don't believe AI should replace human curiosity; I believe it should amplify it. I build local-first, semantic, and interactive software designed to help people think, rather than just delivering automated answers.
 
-Python • C • C++ • JavaScript • TypeScript
-
-### AI / ML
-
-PyTorch • OpenCLIP • NumPy • Pandas • Matplotlib
-
-### Backend
-
-FastAPI • Flask
-
-### Frontend
-
-React • Vite • Tailwind CSS
-
-### Databases
-
-ChromaDB • SQLite
-
-### Tools
-
-Git • Linux • VS Code
+Currently deepening my focus in:
+*   Multimodal Architectures & Vector Search
+*   Local-first, Privacy-Centric AI Applications
+*   Human-Computer Interaction (HCI) & Knowledge Graphs
 
 ---
 
-## Currently Exploring
-
-- Semantic Search
-- RAG Systems
-- Human-Computer Interaction
-- Learning Systems
-- AI + Education
-- Local-first Applications
-
----
-
-## GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=github-compact&hide_border=true"/>
-
----
-
-## Let's Connect
-
-💼 LinkedIn
-
-📧 Email
-
-🌍 Portfolio (Coming Soon)
-
----
+## 📈 Contribution Activity
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=dracula&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
 
-### *Build tools that make people more curious.*
+---
 
+## 🤝 Let's Connect
+
+*   💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   🌍 **Portfolio:** *Coming Soon*
+
+<div align="center">
+  <br />
+  <sub>Built with precision. Tooling for the inquisitive mind.</sub>
 </div>
