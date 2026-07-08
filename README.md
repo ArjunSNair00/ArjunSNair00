@@ -2,73 +2,148 @@
 
 # Hi, I'm Arjun 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+learning.;Exploring+Semantic+Search.;Local-first+AI+Developer." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+AI-powered+learning+tools.;Exploring+Semantic+Search.;Designing+Local-first+AI+Applications." />
 
-*"Curiosity is enough."*
+> *"Curiosity is enough."*
 
----
+<br>
 
-## 🛠️ Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🌌 [NodeScape v1.1.0](https://github.com/ArjunSNair00/NodeScape)
-> **An interactive AI-powered spatial knowledge graph explorer.**
-* **The Concept:** A hybrid local-first note-taking ecosystem and spatial learning map that compiles linear content into 3D/2D dimensional networks of interconnected ideas.
-* **Key Features:** Automated graph parsing from PDFs/Markdown via LLMs (`llama-3.3-70b`), guided learning "Path Mode" camera interpolation, hierarchical layered views, and full offline-first browser storage capabilities.
-* **Tech Stack:** React • TypeScript • Three.js • Pixi.js • d3-force-3d • Framer Motion • Tailwind CSS
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🔍 [WhereIsThatImage?](https://github.com/ArjunSNair00/WhereIsThatImage)
-> **A local-first semantic image search engine.**
-* **The Problem:** Finding images by remembering exact filenames is broken.
-* **The Solution:** Search your local media using natural language descriptions, powered by on-device vector embeddings.
-* **Tech Stack:** React • FastAPI • OpenCLIP • ChromaDB • PyTorch
-
-### 🌌 [Starfield Tunnel](https://github.com/ArjunSNair00/Starfield-Tunnel)
-> **An audio-reactive 3D monument built for the browser.**
-* **The Concept:** A cinematic voyage through a deterministic star tunnel, acting more like a preserved emotional monument than a conventional website. 
-* **Key Features:** Beat-reactive glow driven by MIDI note timings, custom hand-shaped speed curve timelines, mouse-driven gravitational warping, and a secure audio-preloading system designed to bypass intrusive downloader extensions.
-* **Tech Stack:** React 19 • Vite 7 • Three.js • @react-three/fiber • Tailwind CSS v4
-
----
-
-## ⚡ Tech Stack & Tools
-
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🤖 AI / ML & Backend
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🌐 Frontend & Databases
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 🎯 Core Focus & Philosophy
-
-I don't believe AI should replace human curiosity; I believe it should amplify it. I build local-first, semantic, and interactive software designed to help people think, rather than just delivering automated answers.
-
-Currently deepening my focus in:
-*   Multimodal Architectures & Vector Search
-*   Local-first, Privacy-Centric AI Applications
-*   Human-Computer Interaction (HCI) & Knowledge Graphs
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🚀 Featured Projects
 
-*   💼 **LinkedIn:** https://www.linkedin.com/in/arjun-s-nair-aa6036336
-*   📧 **Email:** snairarjun43@gmail.com
-*   🌍 **Portfolio:** *Coming Soon*
+## 🌌 NodeScape
+### *Interactive AI-powered knowledge exploration*
+
+An experimental platform that transforms PDFs, notes, and documents into explorable spatial knowledge graphs.
+
+**Highlights**
+- 🤖 LLM-powered graph generation
+- 🧠 Guided learning paths
+- 🌍 Offline-first architecture
+- 🛰️ 3D + 2D visualization
+
+**Stack**
+
+`React` · `TypeScript` · `Three.js` · `Pixi.js` · `Tailwind`
+
+➡️ https://github.com/ArjunSNair00/NodeScape
+
+---
+
+## 🔍 WhereIsThatImage?
+### *Semantic image search for local files*
+
+Search images by **what they contain**, not by filenames.
+
+**Highlights**
+- 🧠 OpenCLIP embeddings
+- ⚡ Incremental indexing
+- 📂 Multi-folder search
+- 🔒 Runs completely offline
+
+**Stack**
+
+`React` · `FastAPI` · `OpenCLIP` · `ChromaDB` · `PyTorch`
+
+➡️ https://github.com/ArjunSNair00/WhereIsThatImage
+
+---
+
+## 🌌 Starfield Tunnel
+### *An interactive audiovisual experience*
+
+A cinematic WebGL monument driven by music and procedural animation.
+
+**Highlights**
+- 🎵 Beat-reactive visuals
+- 🌠 Procedural starfield
+- 🖱️ Interactive distortion
+- ⚡ GPU accelerated rendering
+
+**Stack**
+
+`React` · `Three.js` · `React Three Fiber` · `Tailwind`
+
+➡️ https://github.com/ArjunSNair00/Starfield-Tunnel
+
+---
+
+# 🧠 What I'm Interested In
+
+- Semantic Search
+- Computer Vision
+- Knowledge Graphs
+- Human–Computer Interaction
+- Local-first AI
+- AI for Learning
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### AI & Backend
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Data
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-EA4C89?style=flat-square)
+
+---
+
+# 💭 Philosophy
+
+I enjoy building software that helps people explore, understand, and interact with knowledge.
+
+Rather than replacing curiosity, I want AI to amplify it—through semantic search, interactive visualizations, and local-first applications that keep users in control of their data.
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/arjun-s-nair-aa6036336
+
+📧 Email  
+snairarjun43@gmail.com
+
+🌍 Portfolio  
+Coming Soon
+
+---
 
 <div align="center">
-  <br />
-  <sub>Keep Building</sub>
+
+### Build tools that make people more curious.
+
 </div>
