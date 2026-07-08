@@ -117,7 +117,7 @@ Git • Linux • VS Code
 
 ## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=github-compact&hide_border=true"/>
 
 ---
 
