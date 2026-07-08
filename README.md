@@ -22,19 +22,23 @@
 
 ## 🛠️ Featured Projects
 
+### 🌌 [NodeScape v1.1.0](https://github.com/ArjunSNair00/NodeScape)
+> **An interactive AI-powered spatial knowledge graph explorer.**
+* **The Concept:** A hybrid local-first note-taking ecosystem and spatial learning map that compiles linear content into 3D/2D dimensional networks of interconnected ideas.
+* **Key Features:** Automated graph parsing from PDFs/Markdown via LLMs (`llama-3.3-70b`), guided learning "Path Mode" camera interpolation, hierarchical layered views, and full offline-first browser storage capabilities.
+* **Tech Stack:** React • TypeScript • Three.js • Pixi.js • d3-force-3d • Framer Motion • Tailwind CSS
+
 ### 🔍 [WhereIsThatImage?](https://github.com/ArjunSNair00/WhereIsThatImage)
 > **A local-first semantic image search engine.**
-*   **The Problem:** Finding images by remembering exact filenames is broken.
-*   **The Solution:** Search your local media using natural language descriptions, powered by on-device vector embeddings.
-*   **Tech Stack:** React • FastAPI • OpenCLIP • ChromaDB • PyTorch
+* **The Problem:** Finding images by remembering exact filenames is broken.
+* **The Solution:** Search your local media using natural language descriptions, powered by on-device vector embeddings.
+* **Tech Stack:** React • FastAPI • OpenCLIP • ChromaDB • PyTorch
 
-### 🧠 Logix
-> **Interactive knowledge retrieval ecosystems.**
-*   An experimental engine designed to transform passive media (PDFs, videos) into active, exploration-driven knowledge graphs. Moving past simple text generation toward actual deep discovery.
-
-### 🎓 Learnel
-> **AI-driven pedagogical interfaces.**
-*   Rethinking the future of education by pairing local AI models with highly interactive, tactile user interfaces to maximize human retention.
+### 🌌 [Starfield Tunnel](https://github.com/ArjunSNair00/Starfield-Tunnel)
+> **An audio-reactive 3D monument built for the browser.**
+* **The Concept:** A cinematic voyage through a deterministic star tunnel, acting more like a preserved emotional monument than a conventional website. 
+* **Key Features:** Beat-reactive glow driven by MIDI note timings, custom hand-shaped speed curve timelines, mouse-driven gravitational warping, and a secure audio-preloading system designed to bypass intrusive downloader extensions.
+* **Tech Stack:** React 19 • Vite 7 • Three.js • @react-three/fiber • Tailwind CSS v4
 
 ---
 
