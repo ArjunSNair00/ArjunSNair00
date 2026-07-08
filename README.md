@@ -70,5 +70,5 @@ Currently deepening my focus in:
 
 <div align="center">
   <br />
-  <sub>Built with precision. Tooling for the inquisitive mind.</sub>
+  <sub>Keep Building</sub>
 </div>
