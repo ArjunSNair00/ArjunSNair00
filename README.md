@@ -11,10 +11,9 @@
 ### 📊 GitHub Analytics
 
 <!-- Responsive HTML paragraph layout to guarantee images render correctly side-by-side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="Arjun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=tokyonight" width="45%" alt="Top Languages" />
-</p>
+
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
 
