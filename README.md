@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi, I'm Arjun 👋
-### Building tools that amplify curiosity, learning, and discovery.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+learning.;Exploring+Semantic+Search.;Local-first+AI+Developer." alt="Typing SVG" />
 
 *"Curiosity is enough."*
 
@@ -9,9 +10,11 @@
 
 ### 📊 GitHub Analytics
 
-| Profile Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=dark" width="400px" alt="Arjun's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=dark" width="350px" alt="Top Languages" /> |
+<!-- Responsive HTML paragraph layout to guarantee images render correctly side-by-side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="Arjun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=tokyonight" width="45%" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -37,10 +40,14 @@
 
 ## ⚡ Tech Stack & Tools
 
-*   **Languages:** Python • TypeScript • JavaScript • C++ • C
-*   **AI / ML:** PyTorch • OpenCLIP • ChromaDB • RAG Pipeline Engineering
-*   **Web Stack:** React • Vite • Tailwind CSS • FastAPI • Flask • SQLite
-*   **Environment:** Linux • Git • VS Code
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🤖 AI / ML & Backend
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🌐 Frontend & Databases
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -58,15 +65,15 @@ Currently deepening my focus in:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=dracula&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunSNair00&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   💼 **LinkedIn:** [Your LinkedIn URL Here]
+*   📧 **Email:** [Your Email Here]
 *   🌍 **Portfolio:** *Coming Soon*
 
 <div align="center">
