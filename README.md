@@ -8,15 +8,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<!-- Responsive HTML paragraph layout to guarantee images render correctly side-by-side -->
-
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=tokyonight)
-
----
-
 ## 🛠️ Featured Projects
 
 ### 🌌 [NodeScape v1.1.0](https://github.com/ArjunSNair00/NodeScape)
