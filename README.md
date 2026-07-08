@@ -72,8 +72,8 @@ Currently deepening my focus in:
 
 ## 🤝 Let's Connect
 
-*   💼 **LinkedIn:** [Your LinkedIn URL Here]
-*   📧 **Email:** [Your Email Here]
+*   💼 **LinkedIn:** https://www.linkedin.com/in/arjun-s-nair-aa6036336
+*   📧 **Email:** snairarjun43@gmail.com
 *   🌍 **Portfolio:** *Coming Soon*
 
 <div align="center">
