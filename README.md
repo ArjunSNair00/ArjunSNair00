@@ -8,21 +8,6 @@
 
 ---
 
-### 📡 System Telemetry & Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArjunSNair00/ArjunSNair00/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Isometric Contributions Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunSNair00&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSNair00&layout=compact&hide_border=true&theme=tokyonight" width="45%" />
-</p>
-
-</div>
-
----
-
 ## 🛠️ Production Repositories
 
 ### 🌌 [NodeScape v1.1.0](https://github.com/ArjunSNair00/NodeScape)
